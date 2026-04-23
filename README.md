@@ -1,9 +1,10 @@
-# AI Agents Development Project
-Целью данного проекта является AI Agents Development Project
+# Цель проекта:
+## "AI Agents in actions"
+Целью данного проекта является создание платформы для разработки, обучения и развёртывания AI агентов ИИ.
 
 # AI Agents Framework
 
-Централизованная платформа для разработки, обучения и развёртывания интеллектуальных агентов ИИ.
+Централизованная 
 
 ## Краткое описание
 
@@ -46,3 +47,12 @@
    ```bash
    git clone https://github.com/ваш-username/ai-agents-framework.git
    cd ai-agents-framework
+.
+├── development/           # Директория для разработки и обучения
+│   ├── study_plan.md     # План обучения и практических занятий
+│   └── projects/         # Директория для практических проектов
+├── references/           # Справочные материалы
+│   ├── tech/            # Технические материалы
+│   │   └── lanham_ai-agents_in_action/  # Материалы из книги
+│   └── lingustic/       # Лингвистические материалы
+└── README.md            # Этот файл
