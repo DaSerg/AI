@@ -20,4 +20,4 @@
 * и тд.
 
 # Содержание 
-(https://github.com/DaSerg/AI/tree/df437babf344f576fc8774a405a51dba3689f26a/Start%20in%20AI)
+[Start in AI](https://github.com/DaSerg/AI/tree/df437babf344f576fc8774a405a51dba3689f26a/Start%20in%20AI)
