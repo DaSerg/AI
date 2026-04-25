@@ -20,3 +20,4 @@
 * и тд.
 
 # Содержание 
+https://github.com/DaSerg/AI/tree/main/Start%20in%20AI
